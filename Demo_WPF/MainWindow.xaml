@@ -55,7 +55,7 @@
             <Button Grid.Row="0" Grid.Column="2" Content="m-" Style="{StaticResource GrayButton}"></Button>
             <Button Grid.Row="0" Grid.Column="3" Content="mr" Style="{StaticResource GrayButton}"></Button>
             <Button Click="Del_Click" Grid.Row="1" Grid.Column="0" Content="c" Style="{StaticResource GrayButton}" ></Button>
-            <Button Click="Del_Click" Grid.Row="1" Grid.Column="1" Content="%" Style="{StaticResource GrayButton}"></Button>
+            <Button Click="btn_Click" Grid.Row="1" Grid.Column="1" Content="%" Style="{StaticResource GrayButton}"></Button>
             <Button Click="btn_Click" Grid.Row="1" Grid.Column="2" Content="/" Style="{StaticResource GrayButton}"></Button>
             <Button Click="btn_Click" Grid.Row="1" Grid.Column="3" Content="x" Style="{StaticResource GrayButton}"></Button>
             <Button Click="btn_Click" Grid.Row="2" Grid.Column="0" Content="7" Style="{StaticResource BlackButton}"></Button>
